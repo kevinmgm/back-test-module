@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "req-rate-limit": "file:../req-rate-limit"
+    "req-rate-limit": "^1.0.0"
   }
 }
