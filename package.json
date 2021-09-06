@@ -1,0 +1,15 @@
+{
+  "name": "back-test-module",
+  "version": "1.0.0",
+  "description": "Backend for test module req-rate-limit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Gaitan <kevinmauricio14@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "req-rate-limit": "file:../req-rate-limit"
+  }
+}
